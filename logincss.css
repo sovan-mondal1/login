@@ -6,7 +6,7 @@
       padding-left: 1em; padding-right: 1em; font-family: arial; border-radius: 5px; transition: 0.4s;
     }
     #rem{
-      text-align: left; padding-left:7.9em; font-weight: normal; font-size: 0.7em;
+      text-align: left; padding-left: 7.9em; font-weight: normal; font-size: 0.7em;
     }
     #loginbutton{
       padding-left: 7.2em; padding-right: 7.2em; padding-top: 0.7em; padding-bottom: 0.7em;
@@ -33,7 +33,7 @@
 .cancelbtn {
   width: auto;
  padding-top: 0.6em; padding-bottom: 0.6em; padding-left: 2em; padding-right: 2em;
-  background-color: transparent; border: 1px solid black; margin-top: 1em; border-radius: 5px; transition: 0.7s;
+  background-color: transparent; border: 1px solid black; margin-top: 0.6em; border-radius: 5px; transition: 0.7s;
 }
 
 
@@ -74,8 +74,7 @@ span.psw {
 .modal-content {
   background-color: #fefefe;
   margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
-  border: 1px solid #888;
-  width: 25%; /* Could be more or less, depending on screen size */
+  width: 26.3%; /* Could be more or less, depending on screen size */
 }
 
 /* The Close Button (x) */
