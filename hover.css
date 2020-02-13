@@ -7,3 +7,19 @@ text-shadow: 4px 3px 0px #99ffeb;
 color:  black; opacity: 1;
 
 }
+#loginbutton:hover{
+	cursor: pointer; color: black;  box-shadow: 0px 3px 4px black;
+}
+input[type=text]:hover,input[type=password]:hover{
+	box-shadow: 0px 3px 4px black;
+}
+.cancelbtn:hover{
+  background: black; color: white; cursor: pointer; box-shadow: 0px 3px 10px black;
+}
+.myb:hover{
+	  background: black;
+  color: white; box-shadow: 0px 3px 10px black;
+}
+#fpass:hover{
+	color: purple;
+}
