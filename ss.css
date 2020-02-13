@@ -3,11 +3,10 @@
 }
 body{	  
 	/*background-image: linear-gradient(to bottom right, #1aff66, #6666ff) fixed;*/
-	  background: linear-gradient(to top right, #6666ff, #1aff66) fixed;	
-	  background-repeat: no-repeat;
+	  background: linear-gradient(to top right, #1aff66, #6666ff) fixed;	
 }
 #all{
-		  
+	background: linear-gradient(to top right, #1aff66, #6666ff) fixed;
 	width: 100%;
 	 
 }
