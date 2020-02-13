@@ -31,7 +31,7 @@
 #galax{
 	 padding-top: 0.9em; padding-bottom: 0.5em; padding-left: 2em; padding-right: 2em;
   text-align: center;
-  transition: 0.5s;
+  transition: 0.4s;
 }
 #Gal{
 	font-size: 0.9em; font-family: arial; color:  #b3e0ff; font-weight: bold;
@@ -83,7 +83,7 @@ color: white; margin-top: 0.4em; letter-spacing: 0.5em;
 }
 #bubble2{
 	width: 24em;
-	height: 9.2em; opacity: 0.2;
+	height: 9em; opacity: 0.2;
 }
 #myself{
 	font-size: 0.6em;
