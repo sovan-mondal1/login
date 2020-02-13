@@ -3,13 +3,12 @@
 }
 body{	  
 	/*background-image: linear-gradient(to bottom right, #1aff66, #6666ff) fixed;*/
-	  background: linear-gradient(to top right, #1aff66, #6666ff) fixed;	
+	  background: linear-gradient(to top right, #6666ff, #1aff66) fixed;	
 	  background-repeat: no-repeat;
 }
 #all{
 		  
-	width: 96em;
-	height: 46.9em;
+	width: 100%;
 	 
 }
 .header{
