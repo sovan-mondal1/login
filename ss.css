@@ -1,0 +1,79 @@
+*{
+	margin: 0; padding: 0; outline: 0;
+}
+	#all{
+	  background-image: linear-gradient(to bottom right, #1aff66, #6666ff);
+	  width: 96em;
+	  height: 46.9em;
+	  background-repeat: no-repeat; 
+}
+.header{
+ padding-top: 0.5em; width: 96em;height: 2em; border-bottom: 1px solid black;
+
+ }
+
+#home{
+	float: left; margin-left: 3em;
+}
+#log{
+	float: right;  margin-right: 3em;
+}
+#logg{
+	  text-decoration: none;
+}
+#fah{
+	color:  #b3ffb3; font-size: 1.5em;
+
+}
+#Galaxy{
+	font-size: 0.7em; font-family: arial; font-weight: bold;  
+}
+#galax{
+	 padding-top: 0.9em; padding-bottom: 0.5em; padding-left: 2em; padding-right: 2em;
+  text-align: center;
+  transition: 1s;
+}
+#Gal{
+	font-size: 0.9em; font-family: arial; color:  #b3e0ff; font-weight: bold;
+  padding-top: 1em; padding-bottom: 1em; padding-left: 2em; padding-right: 2em;
+  text-align: center;
+  transition: 1s;
+}
+
+
+
+
+
+#middle{
+	 padding-top: 0.5em; width: 96em;height: 11em;
+	 text-align: center;
+
+ } 
+
+#galaxy{
+	font-size: 7em; opacity: 1; color: white;
+text-shadow: 4px 3px 0px #7A7A7A;
+color: white; margin-top: 0.4em; letter-spacing: 0.5em;
+}
+#galaxy span{
+	padding-left: 0.4em; border-radius: 17px; transition: 1s;
+}
+
+
+
+#login{
+	text-align: center; margin-top: 6em;
+}
+.myb{
+	padding-top: 0.5em; padding-bottom: 0.5em;
+	padding-left: 2em; padding-right: 2em; font-size: 2em;
+	border-radius: 10px;
+	  background-color: transparent;
+  color: white;  border: 3px solid black;
+  cursor: pointer;
+  width: 100%; transition: 1s;
+}
+.myb:hover{
+	  background: black;
+  color: white;
+}

@@ -1,0 +1,9 @@
+#Gal:hover, #galax:hover{
+	background-color: black; 
+}
+#galaxy span:hover{
+color:  black;
+text-shadow: 4px 3px 0px #99ffeb;
+color:  black; opacity: 1;
+
+}
