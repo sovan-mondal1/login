@@ -76,3 +76,15 @@ color: white; margin-top: 0.4em; letter-spacing: 0.5em;
 #fpass{
 	color: white; text-decoration: none;
 }
+#bubble{
+	width: 85em;
+	height: 20em;
+	opacity: 0.16;
+}
+#bubble2{
+	width: 24em;
+	height: 9.2em; opacity: 0.2;
+}
+#myself{
+	font-size: 0.6em;
+}
