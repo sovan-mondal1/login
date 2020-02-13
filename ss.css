@@ -31,13 +31,13 @@
 #galax{
 	 padding-top: 0.9em; padding-bottom: 0.5em; padding-left: 2em; padding-right: 2em;
   text-align: center;
-  transition: 1s;
+  transition: 0.5s;
 }
 #Gal{
 	font-size: 0.9em; font-family: arial; color:  #b3e0ff; font-weight: bold;
   padding-top: 1em; padding-bottom: 1em; padding-left: 2em; padding-right: 2em;
   text-align: center;
-  transition: 1s;
+  transition: 0.5s;
 }
 
 
